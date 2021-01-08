@@ -1,0 +1,7 @@
+C:\Users\76846\source\repos\基础练习\bin\Debug\基础练习.exe.config
+C:\Users\76846\source\repos\基础练习\bin\Debug\基础练习.exe
+C:\Users\76846\source\repos\基础练习\bin\Debug\基础练习.pdb
+C:\Users\76846\source\repos\基础练习\obj\Debug\基础练习.csprojAssemblyReference.cache
+C:\Users\76846\source\repos\基础练习\obj\Debug\基础练习.csproj.CoreCompileInputs.cache
+C:\Users\76846\source\repos\基础练习\obj\Debug\基础练习.exe
+C:\Users\76846\source\repos\基础练习\obj\Debug\基础练习.pdb
